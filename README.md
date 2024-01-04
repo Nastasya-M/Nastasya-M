@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">Python backend developer</h3>
 
 ### 🔧 Stack:
+
+## 📈 Statistics:
+
+<div align="center">
+<img alt="Nastasya-M's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nastasya-M&show_icons=true&theme=default&title_color=4887d7&icon_color=5193e4&bg_color=ffffff00&text_color=83949e&text_bold=false&border_color=70767c"/>
