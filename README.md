@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## 📈 Statistics:
 
-<div align="center">
+<div>
 <img alt="Nastasya-M's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nastasya-M&show_icons=true&theme=default&title_color=4887d7&icon_color=5193e4&bg_color=ffffff00&text_color=92a1aa&text_bold=false&border_color=70767c&line_height=27" height="207"/>
 &emsp;
 <img alt="Nastasya-M's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastasya-M&layout=compact&theme=default&langs_count=6&custom_title=Languages&title_color=4887d7&bg_color=ffffff00&text_color=92a1aa&border_color=70767c54" height="207"/>
