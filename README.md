@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">My name is Nastasya</h1>
+<h3 align="center">Python backend developer</h3>
+
+### 🔧 Stack:
