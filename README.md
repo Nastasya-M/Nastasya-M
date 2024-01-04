@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">Python backend developer</h3>
 
 ### 🔧 Stack:
-
 <div align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
@@ -26,7 +25,6 @@ Here are some ideas to get you started:
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="Scrapy" src="https://img.shields.io/badge/scrapy-white?style=for-the-badge&logo=scrapy&logoColor=%2360A839&labelColor=%237fe619&color=%237fe619"/>
-
   
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -45,5 +43,5 @@ Here are some ideas to get you started:
 <div align="center">
 <img alt="Nastasya-M's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nastasya-M&show_icons=true&theme=default&title_color=4887d7&icon_color=5193e4&bg_color=ffffff00&text_color=92a1aa&text_bold=false&border_color=70767c" height="207"/>
 &emsp;
-<img alt="Nastasya-M's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastasya-M&layout=compact&theme=default&langs_count=6&custom_title=Languages&title_color=4887d7&bg_color=ffffff00&text_color=92a1aa&border_color=70767c" height="207"/>
+<img alt="Nastasya-M's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastasya-M&layout=compact&theme=default&langs_count=6&custom_title=Languages&title_color=4887d7&bg_color=ffffff00&text_color=92a1aa&border_color=70767c54&card_width=3" height="207"/>
 </div>
