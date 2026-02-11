@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">My name is Nastasya</h1>
-<h3 align="center">Data Analist</h3>
+<h3 align="center">Я Data Analyst с интересом к аналитике данных, машинному обучению и проектам, которые помогают принимать решения на основе данных.</h3>
 
 ### 🔧 Stack:
 <div align="center">
