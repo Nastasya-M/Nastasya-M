@@ -79,6 +79,6 @@ RFM адаптирован под смешанную базу розничных
 |---|---|
 | Языки | Python, SQL |
 | Библиотеки | Pandas, NumPy, Matplotlib, Seaborn, SciPy |
-| BI и визуализация | Datalens |
+| BI и визуализация | Datalens | PowerBI
 | Методы | A/B-тестирование, проверка гипотез, когортный анализ, EDA |
 | Инфраструктура | Docker | PostgreSQL
